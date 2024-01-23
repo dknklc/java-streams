@@ -21,8 +21,7 @@ contains information about:
   csv file will be given as an argument to your program:
 
 java YourProgramNamecsv_file_name question_no
-And it should print the answer of the given question. You can find an example file on
-ODTUClass.
+And it should print the answer of the given question.
 
 ## 3 Questions
 
